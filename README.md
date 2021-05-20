@@ -4,7 +4,7 @@ Quickstart for cloud recording of group video calls on [React Native SDK](https:
 
 The source code of Agora React Native SDK can be found [here](https://github.com/syanbo/react-native-agora).
 
-This app uses [this backend](https://github.com/raysandeep/Agora-Cloud-Recording-Example/tree/master) for cloud recording and tokens.
+This app uses [this backend](https://github.com/AgoraIO-Community/Cloud-Recording-Golang) for cloud recording and tokens.
 
 ## Prerequisites
 
